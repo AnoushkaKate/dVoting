@@ -237,7 +237,8 @@ export default class Voting extends Component {
                       className="container-item"
                       style={{ border: "1px solid black" }}
                     >
-                      <center>That is all.</center>
+                      <center><span style={{ color: "tomato" }}>When MetaMask appears, scroll, and click confirm.</span>
+                </center>
                     </div>
                   </>
                 )}
