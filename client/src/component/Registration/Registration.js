@@ -201,7 +201,7 @@ export default class Registration extends Component {
                     <span style={{ color: "tomato" }}> Note: </span>
                     <br /> Make sure your Id Number is 5 digits e.g 12050. Admin might not approve your account if the
                     provided Id Number does not matches the account
-                    address registered in admins catalogue.
+                    address registered in admins catalogue. <span style={{ color: "tomato" }}>When MetaMask appears, scroll, and click confirm.</span>
                   </p>
                   <button
                     className="btn-add"
