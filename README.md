@@ -68,6 +68,3 @@ https://docs.google.com/forms/d/e/1FAIpQLSftRxcR7W-iSxgk5Yrr9vvJ__Na2L-cu6sm4qNk
    npm install
    npm start
    ```
-
-
-Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
